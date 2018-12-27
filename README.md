@@ -1,7 +1,5 @@
 ### What are the goals for this kit ? 
-
-  1. The Project is to facilitate some common tasks on every app to save a lot time and avoid repetition.  
-  2. Applying what I’ve learnt for example (Design Pattern, Some Programming Concepts, Unit Testing, ReactJS, Some Database Concepts, Deployments,...)
+The Project is to facilitate some common tasks on every app to save a lot time and avoid repetition.
 
 ________
 
