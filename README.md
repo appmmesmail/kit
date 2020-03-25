@@ -20,7 +20,8 @@ _**Working On**_
       * Email Verfification
       * Avatar
       * Search by user attribute
-      * Activation/Deactivation 
+      * Activation/Deactivation
+      * Chat
 ________
 
 _**Later Modules**_
